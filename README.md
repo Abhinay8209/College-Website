@@ -15,16 +15,4 @@ Easy to customize and extend
 
 
 
-college-website/
-│── src/
-│   │── components/
-│   │   ├── Navbar.js
-│   │── pages/
-│   │   ├── Home.js
-│   │   ├── About.js
-│   │   ├── Courses.js
-│   │   ├── Contact.js
-│   │── App.js
-│── public/
-│── package.json
-│── README.md
+
